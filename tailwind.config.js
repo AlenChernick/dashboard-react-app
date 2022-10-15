@@ -42,7 +42,7 @@ module.exports = {
       },
       backgroundImage: {
         'hero-pattern':
-          "url('https://i.ibb.co/Nrqs84L/Call-center-manager-taking-calls.jpg')",
+          "url('https://raw.githubusercontent.com/AlenChernick/dashboard-react-app/112d5e05ad5fb68c80b8ac0e5d5e861dfe333774/src/data/welcome-bg.svg')",
       },
     },
   },
