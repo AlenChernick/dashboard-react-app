@@ -1,5 +1,4 @@
 import React from 'react';
-import { BsCurrencyDollar } from 'react-icons/bs';
 import { GoPrimitiveDot } from 'react-icons/go';
 import { StackedChart, PieChart, Button, SparkLine, LineChart } from '../components';
 import { earningData, SparklineAreaData, ecomPieChartData, dropdownData, recentTransactions, weeklyStats, medicalproBranding } from '../data/dummy';
@@ -143,7 +142,7 @@ const Ecommerce = () => {
               <p className='text-gray-400'>Yearly sales</p>
             </div>
 
-            <div className='w-400'>
+            <div className='w-36'>
               <PieChart data={ecomPieChartData} legendVisiblity={false} height='160px' />
             </div>
           </div>
