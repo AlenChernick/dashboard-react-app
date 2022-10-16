@@ -677,7 +677,6 @@ export const earningData = [
     title: 'Sales',
     iconColor: 'rgb(228, 106, 118)',
     iconBg: 'rgb(255, 244, 229)',
-
     pcColor: 'green-600',
   },
   {
@@ -835,22 +834,27 @@ export const medicalproBranding = {
   ],
   leaders: [
     {
+      imgTitle: 'avatar2',
       image:
         avatar2,
     },
     {
+      imgTitle: 'avatar3',
       image:
         avatar3,
     },
     {
+      imgTitle: 'avatar2',
       image:
         avatar2,
     },
     {
+      imgTitle: 'avatar4',
       image:
         avatar4,
     },
     {
+      imgTitle: 'avatar',
       image:
         avatar,
     },
