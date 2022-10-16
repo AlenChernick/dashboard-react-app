@@ -149,7 +149,7 @@
   <h4 align="center">Notifications Menu</h4>
   <p align="center">
   <a href="https://fhoppy.netlify.app">
-    <img src="https://i.ibb.co/kgZmZnq/Notification-menu.png" width="80%" height="100%">
+    <img src="https://i.imgur.com/77FVpsy.png" width="80%" height="100%">
   </a>
   <h4 align="center">User Profile Menu</h3>
   <p align="center">
